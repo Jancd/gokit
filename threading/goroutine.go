@@ -5,8 +5,8 @@ import (
 	"runtime"
 	"strconv"
 
-	"github.com/Gkit/logger"
-	"github.com/Gkit/chars"
+	"github.com/Jancd/gokit/logger"
+	"github.com/Jancd/gokit/chars"
 )
 
 const (
