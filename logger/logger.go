@@ -7,7 +7,7 @@ import (
 
 	"go.uber.org/zap"
 
-	"github.com/Jancd/gokit/chars"
+	"gokit/chars"
 )
 
 var (
