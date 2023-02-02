@@ -5,9 +5,9 @@ import (
 	"log"
 	"runtime/debug"
 
-	"go.uber.org/zap"
-
 	"gokit/chars"
+
+	"go.uber.org/zap"
 )
 
 var (
